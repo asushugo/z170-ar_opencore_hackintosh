@@ -37,7 +37,16 @@ Big Sur需要OpenCore 0.6.3，系统更新前请先更新EFI。
 | 操作系统类型 | 其他操作系统 |
 | 开启CSM | 关闭 |
 
-## 感谢
-该项目参考https://github.com/BrushXue/Z170i-Pro-Gaming-OpenCore
+## 魔改BIOS
 
-对作者表示感谢！
+如果你想你的Z170-AR支持6代到9代的处理器，可以参考下面的帖子刷对应的BIOS（刷之前请确保你有编程器，而且懂得如何救砖）
+
+http://www.smxdiy.com/thread-1407-1-1.html
+
+## 感谢
+
+该项目参考：https://github.com/BrushXue/Z170i-Pro-Gaming-OpenCore
+
+BIOS来自SMXDIY论坛的dsanke大神：http://www.smxdiy.com/thread-1407-1-1.html
+
+在此表示感谢！
